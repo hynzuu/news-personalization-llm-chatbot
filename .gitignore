@@ -16,5 +16,6 @@
 *.xml
 *.tsv
 Data/
+vector_index.faiss
 
 # End of https://www.toptal.com/developers/gitignore/api/data
